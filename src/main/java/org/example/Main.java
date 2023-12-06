@@ -16,6 +16,7 @@ public class Main {
     public static void test(String x) {
         System.out.println("hello " + x + "!");
     }
+    //now should be pushing from main account
     public static void main(String[] args) {
         System.out.println("Hello world!");
         int a = 5;
