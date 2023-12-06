@@ -13,5 +13,6 @@ public class Main {
         int b = 10;
         add(a, b);
         substract(a, b);
+        throw new RuntimeException();
     }
 }
